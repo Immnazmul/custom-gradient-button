@@ -26,4 +26,5 @@ transition: all 0.5s ease;}
 .custom-button{
     background-size: 100%;
 color: white;
+cursor: pointer;
 }
